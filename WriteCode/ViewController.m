@@ -847,4 +847,6 @@ if ([object class] == [EOCSomeClass Class]) {
     AudioServicesAddSystemSoundCompletion(_systemSoundID, NULL, NULL, completion, (__bridge void*)self));
     AudioServicesPlayAlertSound(_systemSoundID);
 }
+
+1
 @end
