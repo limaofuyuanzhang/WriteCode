@@ -848,5 +848,5 @@ if ([object class] == [EOCSomeClass Class]) {
     AudioServicesPlayAlertSound(_systemSoundID);
 }
 
-1
+2
 @end
